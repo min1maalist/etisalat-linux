@@ -1,0 +1,11 @@
+build/
+build-msvc/
+build-android/
+.vs/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
