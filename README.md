@@ -17,9 +17,3 @@ cmake --build .
 ## Run
 
 you know how to use adb right?
-
-## Warning
-
-Don't mess with the bootloader unless you know what you're doing.
-
-You can brick the box. Seriously.
